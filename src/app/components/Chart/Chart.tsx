@@ -15,7 +15,7 @@ export const ChartComponent = () => {
         renderTo: chartContainerRef.current,
       },
       title: {
-        text: "Casey's Example Colors",
+        text: "Decision Point Chart Colors",
       },
       xAxis: {
         categories: ["Color Pallette"],
